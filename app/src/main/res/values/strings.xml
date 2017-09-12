@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Bounty Hunter Bind</string>
+    <string name="btn_fugitivos">Fugitivos</string>
+    <string name="btn_ipc">Conexion IPC</string>
+    <string name="title_detalle_activity">Detalle Fugitivo</string>
+    <string name="title_fugitivos_activity">Fugitivos</string>
+    <string name="title_list_activity">Lista de Fugitivos</string>
+    <string name="empty_list_title">Oh darn!</string>
+    <string name="empty_list_text">Parece que no hay fugitivos registrados, asegurate de importar algunos primer y vuelve a consultar esta lista mas tarde.</string>
+    <string name="progress">Progreso...</string>
+</resources>
